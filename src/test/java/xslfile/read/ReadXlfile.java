@@ -76,7 +76,7 @@ public class ReadXlfile {
 
         } catch (IOException e) {
             e.printStackTrace();
-            System.out.println("error");
+            System.out.println("error ");
         }
     }
 }
